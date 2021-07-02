@@ -15,10 +15,5 @@ Next, I create an overview table that summarized the key metrics about each scho
 **School Summary**
 ![image](https://user-images.githubusercontent.com/84043141/124285392-dd664880-db1b-11eb-8b50-b4fdb8a89feb.png)
 
-**Top Performing Schools (By % Overall Passing)** & **Bottom Performing Schools (By % Overall Passing)**
 
-Next, I created two tables highligting the top 5 performing schoolst and 5 worst-performing schools based on % Overall Passing. 
 
-![image](https://user-images.githubusercontent.com/84043141/124285772-451c9380-db1c-11eb-9830-44d0377ad589.png)
-
-![image](https://user-images.githubusercontent.com/84043141/124286272-c3793580-db1c-11eb-883c-49f9e1a53f88.png)
