@@ -1,6 +1,6 @@
 **All About Pandas -- PyCitySchools**
 
-As the Chief Data Scientist for my city's school district, my task was to help the school board and mayor make strategic decisions regarding future school budgets and priorities. I used an open source data analysis and manipulation tool, Pandas, and a next-generation web-based user interface, Jupyter Notebook, to analyze a district-wide raw data. 
+As the Chief Data Scientist for my city's school district, my task was to help the school board and mayor make strategic decisions regarding future school budgets and priorities. I used an open source data analysis and manipulation tool, Pandas, and a next-generation web-based user interface, Jupyter Notebook, to analyze a district-wide raw data. The analysis can be found here: [Jupyter Notebook](main.ipynb)
 
 My first task was to analyze the district-wide standardized test results. I was given access to every student's math and reading scores, as well as various information on the schools they attend. I generated a table called District Summary, which represents a high level snapshot of the district's key metrics:
 
